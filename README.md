@@ -1,4 +1,4 @@
-## Automated Depression Detection from Tweets: a Comparison of NLP Techniques
+### Automated Depression Detection from Tweets: a Comparison of NLP Techniques
 <b>Official implementation of the [IDAP 2024](http://idap.inonu.edu.tr/) paper.</b>
 
 Emirhan Balcı*, Esra Saraç
