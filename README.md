@@ -16,5 +16,10 @@ This paper aims to classify suicidal ideation as a symptom of depression from so
 
 15/08/2024: The paper is submitted to symposium.
 
+## License
+
+GNU General Public License v3.0
+
+<hr>
 
 Feel free to [contact](mailto:emirbalci360@gmail.com) for any questions.
