@@ -9,12 +9,27 @@ This paper aims to classify suicidal ideation as a symptom of depression from so
 [Code](https://github.com/BashMocha/Automated-Depression-Detectiom-from-Tweets/tree/master/notebooks) | [Paper](https://github.com/BashMocha/Automated-Depression-Detectiom-from-Tweets/) | [Data](https://github.com/BashMocha/Automated-Depression-Detectiom-from-Tweets/tree/master/data)
 
 ## Updates
+17/10/2024: The paper is published in IEEE Xplore.
 
 19/09/2024: We release the utilized dataset and the source code.
 
-11/09/2024: The study is accpeted by IDAP'24! 🎉
+11/09/2024: The study is accepted by IDAP'24! 🎉
 
-15/08/2024: The paper is submitted to symposium.
+15/08/2024: The paper is submitted to the symposium.
+
+## Citation
+
+If you find the dataset or code useful, please cite:
+
+```bibtex
+@inproceedings{balci_automated_2024,
+	title = {Automated {Depression} {Detection} from {Tweets}: a {Comparison} of {NLP} {Techniques}},
+	doi = {10.1109/IDAP64064.2024.10711029},
+	booktitle = {2024 8th {International} {Artificial} {Intelligence} and {Data} {Processing} {Symposium} ({IDAP})},
+	author = {Balcı, Emirhan and Saraç, Esra},
+	year = {2024},
+}
+```
 
 ## License
 
